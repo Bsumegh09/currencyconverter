@@ -1,7 +1,6 @@
 import { useState } from "react";
 import InputCard from "./components/InputCard";
 import useCurrencyInfo from "./hooks/useCurrencyInfo";
-// import "./App.css";
 import BackgroundImage from "/back.jpg";
 
 function App() {
