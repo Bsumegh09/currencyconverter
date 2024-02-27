@@ -19,3 +19,7 @@ npm run dev
 ## Reference
 
 https://github.com/hiteshchoudhary
+
+## Project Preview
+
+![Example Output](output.png)
