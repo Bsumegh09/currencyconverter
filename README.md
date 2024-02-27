@@ -22,4 +22,4 @@ https://github.com/hiteshchoudhary
 
 ## Project Preview
 
-![Example Output](output.png)
+![Output](output.png)
